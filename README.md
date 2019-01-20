@@ -11,7 +11,7 @@
 使用`Markdown`标记语言提交`issue`。
 
 [Markdown语法练习](https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown)
-（上面这个链接可以直接在左侧改，然后在右边看到效果）
+（这个链接可以直接在左侧改，然后在右边看到效果）
 
 ## 学习阶段：
 ### 2019.01.20-02.09-学习html、css和js
