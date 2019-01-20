@@ -14,6 +14,6 @@
 
 ## 学习阶段：
 ### 2019.01.20-02.09-学习html、css和js
-##### 学习途径：[菜鸟教程](http://www.runoob.com/)[w3school](http://www.w3school.com.cn/) 
+##### 学习途径：[菜鸟教程](http://www.runoob.com/)      [w3school](http://www.w3school.com.cn/) 
 - [ ] 仿写菜鸟教程首页（用来练习html、css，要求看起来长得像即可）
 - [ ] 仿写百度首页（用来练习js，重点是搜索框、下拉菜单等功能的实现
