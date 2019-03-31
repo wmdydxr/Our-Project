@@ -18,3 +18,6 @@
 ##### 学习途径：[菜鸟教程](http://www.runoob.com/)      [w3school](http://www.w3school.com.cn/) 
 - [ ] 仿写菜鸟教程首页（用来练习html、css，要求看起来长得像即可）
 - [ ] 仿写百度首页（用来练习js，重点是搜索框、下拉菜单等功能的实现）
+### 2019.03.01-03.31-学习Vue框架
+##### 学习途径：网盘分享的Vue视频  b站也有资源[b站Vue教程](https://www.bilibili.com/video/av36650577)
+- [ ] 中期检查前完成整体页面的前端设计
